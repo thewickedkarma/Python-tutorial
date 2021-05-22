@@ -7,5 +7,5 @@
 
 
 [GitHub](https://github.com/Git-Ankitraj/Python-tutorial/)
-  
-[Explore](#)
+[Telegram](#)
+[Explore](#basics)
