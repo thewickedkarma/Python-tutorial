@@ -1,11 +1,11 @@
-<p align='center'> <a href="https://brainly.in/app/profile/23926353/"> <img class="intro" width="25%" src="https://hi-static.z-dn.net/files/de7/a82ecebcbee117d1a1335562086436b1.jpg" ></a></p>
+<p align='center'> <a href="www.github.com/organizations/Freaxcode> <img class="intro" width="25%" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=florian-olivo-4hbJ-eymZ1o-unsplash.jpg" ></a></p>
 
 
-# Brainly-Picture-Environment
-> A Guide to the Picture Environment of LaTeX for Brainly 
+# Freaxcode
+> A comprehensive Python-Tutorial
 
-More things to be added soon.
 
-[GitHub](https://github.com/Git-Ankitraj/brainly-picture-environment/)
-[Brainly](https://www.brainly.in/app/profile/23926353/)
-[Explore](#picture-environment-latex-on-brainly)
+
+[GitHub](https://github.com/Git-Ankitraj/Python-tutorial/)
+  
+[Explore](#)
