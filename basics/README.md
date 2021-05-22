@@ -29,9 +29,32 @@ to learn more about whatever you want after studying it.
 
 ***
 
-If you like this tutorial, please [give it a star](https://github.com/Git-Ankitraj/Python-tutorial).
+# Advanced
+
+If you want to learn more advanced techniques, you can also read this
+section. Most of the techniques explained here are great when you're
+working on a large project, and your code would be really repetitive
+without these things.
+
+You can experient with these things freely, but please **don't use these
+techniques just because you know how to use them.** Prefer the simple
+techniques from the Basics part instead when possible. Simple is better
+than complex.
+
+1. [Handy data types](/advanced/datatypes)
+2. [Advanced stuff with functions](/advanced/functions)
+3. [Magic methods](/advanced/magicmethods)
+4. [Iterables, iterators and generators](/advanced/iters)
+
+***
+
+If you have trouble with this tutorial please [tell me about
+it](../contact-me.md) and I'll make this tutorial better. If you
+like this tutorial, please [give it a
+star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 
 You may use this tutorial freely at your own risk. See
-[LICENSE]().
+[LICENSE](../LICENSE).
 
-[List of contents](../README #list-of-contents)
+[List of contents](../README.md#list-of-contents)
+
