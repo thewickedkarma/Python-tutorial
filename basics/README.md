@@ -49,12 +49,12 @@ than complex.
 ***
 
 If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
+it](#) and I'll make this tutorial better. If you
 like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
+star](https://github.com/Git-Ankitraj/Python-tutorial).
 
 You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
+[LICENSE](/LICENSE).
 
-[List of contents](../README.md#list-of-contents)
+[List of contents](#basics)
 
