@@ -6,36 +6,36 @@
 This section will get you started with using Python and you'll be able
 to learn more about whatever you want after studying it.
 
-1. [What is programming?](what-is-programming.md)
-2. [Installing Python](installing-python.md)
-3. [Getting started with Python](getting-started.md)
-4. [ThinkPython: The way of the program](the-way-of-the-program.md)
-5. [Variables, Booleans and None](variables.md)
-6. [Using functions](using-functions.md)
-7. [Setting up an editor](editor-setup.md)
-8. [If, else and elif](if.md)
-9. [Handy stuff with strings](handy-stuff-strings.md)
-10. [Lists and tuples](lists-and-tuples.md)
-11. [Loops](loops.md)
-12. [Trey Hunner: zip and enumerate](trey-hunner-zip-and-enumerate.md)
-13. [Dictionaries](dicts.md)
-14. [Defining functions](defining-functions.md)
-15. [Writing a larger program](larger-program.md)
-16. [What is true?](what-is-true.md)
-17. [Files](files.md)
-18. [Modules](modules.md)
-19. [Exceptions](exceptions.md)
-20. [Classes](classes.md)
-21. [Docstrings](docstrings.md)
+1. [What is programming?](what-is-programming )
+2. [Installing Python](installing-python )
+3. [Getting started with Python](getting-started )
+4. [ThinkPython: The way of the program](the-way-of-the-program )
+5. [Variables, Booleans and None](variables )
+6. [Using functions](using-functions )
+7. [Setting up an editor](editor-setup )
+8. [If, else and elif](if )
+9. [Handy stuff with strings](handy-stuff-strings )
+10. [Lists and tuples](lists-and-tuples )
+11. [Loops](loops )
+12. [Trey Hunner: zip and enumerate](trey-hunner-zip-and-enumerate )
+13. [Dictionaries](dicts )
+14. [Defining functions](defining-functions )
+15. [Writing a larger program](larger-program )
+16. [What is true?](what-is-true )
+17. [Files](files )
+18. [Modules](modules )
+19. [Exceptions](exceptions )
+20. [Classes](classes )
+21. [Docstrings](docstrings )
 
 ***
 
 If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
+it](../contact-me ) and I'll make this tutorial better. If you
 like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
+star](../README #how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 
 You may use this tutorial freely at your own risk. See
 [LICENSE](../LICENSE).
 
-[List of contents](../README.md#list-of-contents)
+[List of contents](../README #list-of-contents)
