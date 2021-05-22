@@ -45,28 +45,6 @@ easy to learn and we can do many different things with it. For example,
 we can create our own applications that have buttons that people can
 click instead of just using applications written by others.
 
-Before we can get started with Python we need to know how to write some of
-Python's special characters with our keyboards. Unfortunately I don't know
-which keys you need to press to produce these characters because your keyboard
-is probably different than mine. But the keyboard can tell what you
-need to press. For example, my Finnish keyboard has a key like this:
-
-![A key on my keyboard.](../images/key.png)
-
-Here's what the characters on this key mean:
-
-- I can type a number 7 by pressing this key without holding down other keys
-    at the same time.
-- I can type a `/` character by holding down the shift key (on the left edge
-    of the keyboard, between Ctrl and CapsLock) and pressing this key.
-- I can type a `{` character by holding down AltGr (on the bottom of the
-    keyboard, on the right side of the spacebar) and pressing this key.
-    Holding down Ctrl and Alt instead of AltGr may also work.
-
-The only key that doesn't have anything written on it is spacebar. It's the
-big, wide key that's closest to you. Another key that's used for producing
-whitespace is tab, the key above CapsLock.
-
 In this tutorial we need to know how to type these characters. We'll learn
 their meanings later.
 
